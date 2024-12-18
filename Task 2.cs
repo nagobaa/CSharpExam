@@ -32,7 +32,7 @@ namespace Task_2
                 //...negative value
                 if (number < 0)
                 {
-                    //printing the resutl
+                    //printing the result
                     Console.WriteLine("The number is negative");
                 }
                 //...is cero
